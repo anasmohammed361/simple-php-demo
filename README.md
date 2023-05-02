@@ -23,7 +23,7 @@ This is a simple web application for registering new students to a database and 
 
 ## **Contributors**
 
-- Mohammed Anas.H ([anasmohammed361@gmail.com](mailto:anasmohammed361@gmail.com)**)
+- Mohammed Anas.H ([anasmohammed361@gmail.com](mailto:anasmohammed361@gmail.com))
 
 ## **License**
 
